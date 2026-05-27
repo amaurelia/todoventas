@@ -1,0 +1,16 @@
+{
+  "name": "todoventas",
+  "version": "1.0.0",
+  "description": "es un proyecto grupal de ecommerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Todos",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.22.4"
+  }
+}
