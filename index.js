@@ -13,6 +13,7 @@ const dbConfig = {
 };
 
 app.use(express.json());
+app.use(express.static(__dirname));
 
 // Endpoint to get all products
 router.get('/', async (req, res) => {
