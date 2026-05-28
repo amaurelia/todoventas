@@ -1,0 +1,10 @@
+.contenedor-banner {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+.contenedor-banner img {
+    width: 50%;
+    max-width: 50%;
+}
